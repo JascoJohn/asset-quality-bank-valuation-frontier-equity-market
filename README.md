@@ -16,7 +16,6 @@ This package reproduces every table, test, diagnostic and robustness check repor
 ```
 replication_package/
 ├── README.md                       this file
-├── MANIFEST.csv                    path, size and SHA-256 of every file in the package
 ├── <project>.Rproj                 RStudio project file (sets the working directory)
 ├── .Rprofile, renv/activate.R,     renv project files (restore the pinned package library)
 │   renv/settings.json
@@ -158,7 +157,7 @@ Run time is about 10–15 minutes on a standard laptop, mostly the confidence-in
 | `T8b_cr2_H2.csv` | `32166cd64ed7b823de9f60c0f0bf072af6ca6a24d27579e9cdf9cee124e6e864` |
 | `T9_power.csv` | `222cc7e6f35bfaa0ee145ba26d630fb18fb514de5dfd3f66012467ab83e94b31` |
 
-`MANIFEST.csv` lists the size and SHA-256 of every file in the package. The output-table hashes above hold for the official platform (Windows, R 4.6.1); the numerical comparison in `master.R` is the platform-independent check.
+The Zenodo record lists a checksum for every archived file. The output-table hashes above hold for the official platform (Windows, R 4.6.1); the numerical comparison in `master.R` is the platform-independent check.
 
 ## 8. Notes
 
