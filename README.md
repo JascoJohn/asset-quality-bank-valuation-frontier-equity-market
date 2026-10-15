@@ -1,10 +1,10 @@
-# Replication package: Asset Quality and Bank Valuation in a Frontier Equity Market: Evidence from Tanzanian Listed Commercial Banks
+# Replication package: The Valuation Relevance of Bank Signals in a Frontier Equity Market: Asset Quality and Few-Cluster Inference
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23196473.svg)](https://doi.org/10.5281/zenodo.23196473)
 
-**Authors:** Jasco John (Ardhi University); Minja Ladislaus
-**Package version:** 1.0.1 (October 2026)
-**Manuscript:** *Asset Quality and Bank Valuation in a Frontier Equity Market: Evidence from Tanzanian Listed Commercial Banks* (under review)
+**Authors:** Jasco John (Ardhi University); Ladislaus Minja
+**Package version:** 1.0.2 (October 2026)
+**Manuscript:** *The Valuation Relevance of Bank Signals in a Frontier Equity Market: Asset Quality and Few-Cluster Inference* (under review)
 **Dataset:** Tanzania_DSE_AnalyticalDataset_v1.3.1_LOCKED (included)
 
 This package reproduces every table, test, diagnostic and robustness check reported in the manuscript from the locked analytical dataset, using R. One script (`R/master.R`) rebuilds all results from scratch and verifies them against the reference outputs supplied in `reference/`.
@@ -177,4 +177,4 @@ Run time is about 10–15 minutes on a standard laptop, mostly the confidence-in
 
 Please cite the article (reference to be added on publication) and this package:
 
-John, J., & Ladislaus, M. (2026). *Replication package: Asset Quality and Bank Valuation in a Frontier Equity Market: Evidence from Tanzanian Listed Commercial Banks* [Software]. Zenodo. https://doi.org/10.5281/zenodo.23196473
+John, J., & Minja, L. (2026). *Replication package: The Valuation Relevance of Bank Signals in a Frontier Equity Market: Asset Quality and Few-Cluster Inference* [Software]. Zenodo. https://doi.org/10.5281/zenodo.23196473

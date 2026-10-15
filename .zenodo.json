@@ -1,9 +1,9 @@
 {
-  "title": "Replication package: Asset Quality and Bank Valuation in a Frontier Equity Market: Evidence from Tanzanian Listed Commercial Banks",
+  "title": "Replication package: The Valuation Relevance of Bank Signals in a Frontier Equity Market: Asset Quality and Few-Cluster Inference",
   "upload_type": "software",
   "creators": [
     {"name": "John, Jasco", "affiliation": "Ardhi University"},
-    {"name": "Ladislaus, Minja"}
+    {"name": "Minja, Ladislaus"}
   ],
   "description": "R code, locked dataset (v1.3.1) and reference outputs reproducing all results of the study. Restore packages with renv::restore(), then run R/master.R.",
   "license": "MIT",
